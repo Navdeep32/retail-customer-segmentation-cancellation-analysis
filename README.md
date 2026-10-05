@@ -18,7 +18,7 @@ The analysis focuses on:
 
 ## Dataset
 
-The project uses the **Online Retail II** dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
+The project uses the **Online Retail** dataset from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/352/online+retail).
 
 The dataset contains transaction records from **1 December 2010 to 9 December 2011** for a UK-based, registered non-store online retailer. The company mainly sells unique all-occasion gifts, and many of its customers are wholesalers.
 
